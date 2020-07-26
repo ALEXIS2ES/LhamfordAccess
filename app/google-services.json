@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620248267888",
+    "firebase_url": "https://db-lhamfor-ba98f.firebaseio.com",
+    "project_id": "db-lhamfor-ba98f",
+    "storage_bucket": "db-lhamfor-ba98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620248267888:android:f4deb1d73aa647a4dc88b5",
+        "android_client_info": {
+          "package_name": "com.introscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620248267888-jumn2uk998dm4p267kim53km08ho0v71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.introscreen",
+            "certificate_hash": "5dd5a48a66dd61b756def9f8c548779056728dde"
+          }
+        },
+        {
+          "client_id": "620248267888-lbnir7vvb2d9q2s9928p42773rn387cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3Ni067AdTpcSd0ptxhLTr0Wxr4WE804"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620248267888-lbnir7vvb2d9q2s9928p42773rn387cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
